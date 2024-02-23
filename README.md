@@ -1,7 +1,7 @@
-### Hi there! 👋 It's me KISHORE M.G
+## Hi there! 👋 It's me KISHORE M.G
 
 Electrical Engineer⚡️
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"><br/>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"><br/><br>
 - 🔭 Here's my [portfolio](https://mgks.netlify.app/)                                                 
 - 📚 I’m currently learning Java
 - 🧑‍💻 I’m looking to collaborate on Font-end Developer
