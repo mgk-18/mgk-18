@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KISHORE M.G!;" />
-
+## Hi There! I'm KISHORE M.G
 Electrical Engineer⚡️
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"><br/><br>
 - 🔭 Here's my [portfolio](https://mgks.netlify.app/)                                                 
