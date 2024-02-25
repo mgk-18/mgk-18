@@ -1,5 +1,5 @@
 ## Hi There! I'm KISHORE M.G
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
 Electrical Engineer⚡️
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"><br/><br>
 - 🔭 Here's my [portfolio](https://mgks.netlify.app/)                                                 
