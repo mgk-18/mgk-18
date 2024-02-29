@@ -1,5 +1,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There👋+I'm+KISHORE+M.G)
+<br></br>
 Electrical Engineer⚡️
 
 - 🔭 Here's my [portfolio](https://mgks.netlify.app/)                                                 
