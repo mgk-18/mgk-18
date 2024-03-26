@@ -8,12 +8,10 @@
 
 - 🔭 Here's my [portfolio](https://mgks.netlify.app/)                                                 
 - 📚 I’m currently learning Java
-- 🧑‍💻 I’m looking to collaborate on Front-end Developer
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kishore-m-g-94775823b)
+- 🧑‍💻 I’m looking to collaborate on Front-end Developer!
+- 📫 How to reach me: kishoremng03@gmail.com
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Hindi.
+- ⚡ Fun fact: I'm Learning Hindi.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
