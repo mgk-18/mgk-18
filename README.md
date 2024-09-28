@@ -19,9 +19,9 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python" alt="Tech Stack" />
-  </a>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,mysql,powerbi" alt="Tech Stack" />
+</a>
 </p>
 
 ## IDE and Tools I Use :
