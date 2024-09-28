@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="500" align="right">
 
 - 🔭 Here's my [portfolio](https://kishore03.netlify.app/)                                                 
-- 📚 I’m currently learning Java
+- 📚 I’m currently learning DSA
 - 🧑‍💻 I’m looking to collaborate on Front-end Developer!
 - 📫 How to reach me: kishoremng03@gmail.com
 - 😄 Pronouns: Techie
@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,MySQL,powerbi" alt="Tech Stack" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <br></br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+My+Page!!)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+My+Profile!!)<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 
