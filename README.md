@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,MySQL,powerbi" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python" alt="Tech Stack" />
   </a>
 </p>
 
