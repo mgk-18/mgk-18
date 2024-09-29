@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="500" align="right">
 
-- 🔭 Here's my [portfolio]([https://kishore03.netlify.app/](https://mgk-pf.netlify.app/))                                                 
+- 🔭 Here's my [portfolio]((https://mgk-pf.netlify.app/))                                            
 - 📚 I’m currently learning DSA
 - 🧑‍💻 I’m looking to collaborate on Front-end Developer!
 - 📫 How to reach me: kishoremng03@gmail.com
