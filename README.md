@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="500" align="right">
 
 - 🔭 Here's my [portfolio](https://www.figma.com/proto/HAQm58b1PcGnViH9X3lZBv/mgk?page-id=0%3A1&node-id=386-2&node-type=frame&viewport=505%2C581%2C0.07&t=s4gOmJHnH1Y0pJzf-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=386%3A2)                                           
-- 📚 I’m currently learning DSA
+- 📚 I’m Currently learning Autocad!
 - 🧑‍💻 I’m looking to collaborate on Front-end Developer!
 - 📫 How to reach me: kishoremng03@gmail.com
 - 😄 Pronouns: Techie
