@@ -1,6 +1,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There👋+I'm+KISHORE+M.G)
 <br></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgk-18&label=Profile%20views&color=0e75b6&style=flat" alt="mgk-18" /> </p>
 <marquee direction="left">ELECTRICAL ENGINEER⚡️</marquee>
 <br>
 
@@ -30,6 +31,17 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+My+Profile!!)<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
+
+
+ 
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgk-18&show_icons=true&locale=en" alt="mgk-18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgk-18&" alt="mgk-18" /></p>
+
 
 
 
