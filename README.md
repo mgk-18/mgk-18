@@ -29,18 +29,9 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <br></br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgk-18&show_icons=true&locale=en" alt="mgk-18" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgk-18&" alt="mgk-18" /></p>
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+My+Profile!!)<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-
-
-
- 
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgk-18&show_icons=true&locale=en" alt="mgk-18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgk-18&" alt="mgk-18" /></p>
 
 
 
