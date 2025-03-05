@@ -33,7 +33,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgk-18&show_icons=true&locale=en" alt="mgk-18" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgk-18&" alt="mgk-18" /></p>
 
 
 
